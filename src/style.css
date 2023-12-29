@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(254, 8, 127);
+  background-color: rgb(249, 203, 226);
   font-family: "Open Sans", sans-serif;
 }
 .weather-app {
@@ -66,7 +66,7 @@ main {
 
 .weather-app-icon {
   font-size: 45px;
-  margin-top: 25px;
+  margin-top: 10px;
 }
 .weather-app-temperature {
   font-size: 88px;
